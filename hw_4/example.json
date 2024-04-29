@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "publish_date": "1925-04-10",
+    "rating": 4.3,
+    "price": 9.99,
+    "available": true,
+    "description": "The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan."
+  },
+  {
+    "id": "2",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publish_date": "1960-07-11",
+    "rating": 4.5,
+    "price": 12.50,
+    "available": true,
+    "description": "A novel that explores the irrationality of adult attitudes toward race and class in the Deep South of the 1930s."
+  },
+  {
+    "id": "3",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Science Fiction",
+    "publish_date": "1949-06-08",
+    "rating": 4.7,
+    "price": 10.75,
+    "available": false,
+    "description": "A dystopian novel set in a totalitarian society, where the government surveils and controls the thoughts and actions of its citizens."
+  },
+  {
+    "id": "4",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "publish_date": "1813-01-28",
+    "rating": 4.8,
+    "price": 8.99,
+    "available": true,
+    "description": "A classic romance novel featuring the independent and spirited Elizabeth Bennet and the proud Mr. Darcy."
+  },
+  {
+    "id": "5",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Coming-of-Age",
+    "publish_date": "1951-07-16",
+    "rating": 4.2,
+    "price": 11.25,
+    "available": true,
+    "description": "A novel narrated by Holden Caulfield, a disaffected teenager, as he wanders through New York City after being expelled from prep school."
+  }
+]
